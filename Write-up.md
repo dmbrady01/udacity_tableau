@@ -2,7 +2,7 @@
 
 My [initial](https://public.tableau.com/profile/daniel2654#!/vizhome/TitanicFailure/TitanicFailure) tableau story
 
-My [final](https://public.tableau.com/profile/daniel2654#!/vizhome/TitanicFailure/TitanicFailure) tableau story
+My [final](https://public.tableau.com/profile/daniel2654#!/vizhome/TitanicFailureFinal/TitanicFailure) tableau story
 
 
 ## Summary
