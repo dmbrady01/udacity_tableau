@@ -21,10 +21,13 @@ get a sense of the data.
 I thought it would be a bit fun to organize them in ways that lended to cheeky titles - A/S/L, Grey Poupon, and Loneliness is a Warm Gun
 
 ## Feedback
+Feedback: Person #1
 * Should begin with a summary slide instead of going straight to survival percentages. 
     * Added a dashboard with basic survival information about the Titanic 
 * The colors can be a bit harsh. 
     * Softened the color palette
+    
+Feedback: Person #2
 * I do not know what embarkation city means. 
     * Changed embarkation to departure
 * Remove the with/without for chart titles that have them. 
