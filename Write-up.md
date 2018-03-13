@@ -39,3 +39,6 @@ Feedback: Person #2
 [Titanic Dataset](https://www.kaggle.com/c/titanic)
 
 [Titanic (1997 film) Wikipedia Page](https://en.wikipedia.org/wiki/Titanic_(1997_film))
+
+## Data
+[Finalized Dataset](https://raw.githubusercontent.com/dmbrady01/udacity_tableau/master/Final_titanic_dataset.csv)
