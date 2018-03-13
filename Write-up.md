@@ -36,9 +36,9 @@ Feedback: Person #2
     * I removed it
 
 ## Resources
-[Titanic Dataset](https://www.kaggle.com/c/titanic)
+[Original Titanic dataset](https://www.kaggle.com/c/titanic)
+
+[My finalized dataset](https://raw.githubusercontent.com/dmbrady01/udacity_tableau/master/Final_titanic_dataset.csv)
 
 [Titanic (1997 film) Wikipedia Page](https://en.wikipedia.org/wiki/Titanic_(1997_film))
 
-## Data
-[Finalized Dataset](https://raw.githubusercontent.com/dmbrady01/udacity_tableau/master/Final_titanic_dataset.csv)
