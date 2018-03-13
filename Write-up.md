@@ -21,15 +21,15 @@ get a sense of the data.
 I thought it would be a bit fun to organize them in ways that lended to cheeky titles - A/S/L, Grey Poupon, and Loneliness is a Warm Gun
 
 ## Feedback
-* Should begin with a summary slide instead of going straight to survival percentages.
+* Should begin with a summary slide instead of going straight to survival percentages. 
 ..* Added a dashboard with basic survival information about the Titanic 
-* The colors can be a bit harsh.
+* The colors can be a bit harsh. 
 ..* Softened the color palette
-* I do not know what embarkation city means.
+* I do not know what embarkation city means. 
 ..* Changed embarkation to departure
-* Remove the with/without for chart titles that have them.
+* Remove the with/without for chart titles that have them. 
 ..* Removed with/without from titles of parent and sibling/spouse charts
-* The parents/siblings survival matrix is confusing
+* The parents/siblings survival matrix is confusing. 
 ..* I removed it
 
 ## Resources
