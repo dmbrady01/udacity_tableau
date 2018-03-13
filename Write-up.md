@@ -22,15 +22,15 @@ I thought it would be a bit fun to organize them in ways that lended to cheeky t
 
 ## Feedback
 * Should begin with a summary slide instead of going straight to survival percentages. 
-..* Added a dashboard with basic survival information about the Titanic 
+    * Added a dashboard with basic survival information about the Titanic 
 * The colors can be a bit harsh. 
-..* Softened the color palette
+    * Softened the color palette
 * I do not know what embarkation city means. 
-..* Changed embarkation to departure
+    * Changed embarkation to departure
 * Remove the with/without for chart titles that have them. 
-..* Removed with/without from titles of parent and sibling/spouse charts
+    * Removed with/without from titles of parent and sibling/spouse charts
 * The parents/siblings survival matrix is confusing. 
-..* I removed it
+    * I removed it
 
 ## Resources
 [Titanic Dataset](https://www.kaggle.com/c/titanic)
