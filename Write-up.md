@@ -11,12 +11,12 @@ the Titanic. I have created a tableau story exploring what features were predict
 of survival.
 
 ## Design
-* There was some initial preprocessing (detailed in the jupyter notebook) to only include some of the factors.
+* There was some initial preprocessing (detailed in the jupyter notebook) to only include some of the factors and to fill in missing data.
 * Survival rate (number of survivors/total number of people) was the measure across nearly all visualizations.
-* Since all the visualizations were comparing percentages, bar charts made the most sense. A quick comparison of bar is all that is needed to 
+* Since all the visualizations were comparing percentages, bar charts made the most sense. A quick comparison of bar height is all that is needed to 
 get a sense of the data.
-* The only exception was with the parent/sibling matrix. I thought that would be interesting to include all combinations (removed later).
-* All factors were group data (I binned ages), so it made sense to have them on the x-axis and survival rate on the y-axis.
+* The only exception to above was with the parent/sibling matrix. I thought that would be interesting to include all combinations (removed later due to confusion).
+* All factors were group data (I binned ages), so it made sense to have factors on the x-axis and survival rate on the y-axis.
 * I grouped certain features into a dashboard to break up the monotonic nature of most stories (one chart per slide).
 I thought it would be a bit fun to organize them in ways that lended to cheeky titles - A/S/L, Grey Poupon, and Loneliness is a Warm Gun
 
@@ -26,7 +26,7 @@ Feedback: Person #1
     * Added a dashboard with basic survival information about the Titanic 
 * The colors can be a bit harsh. 
     * Softened the color palette
-    
+
 Feedback: Person #2
 * I do not know what embarkation city means. 
     * Changed embarkation to departure

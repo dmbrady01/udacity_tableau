@@ -8,4 +8,4 @@ My submission for creating a tableau story for Udacity's Data Analyst degree.
 
 `Final_titanic_dataset.csv` is the final data source
 
-'Titanic_analysis.ipynb' contains some exploratory code and preprocessing of titanic data
+`Titanic_analysis.ipynb` contains some exploratory code and preprocessing of titanic data
